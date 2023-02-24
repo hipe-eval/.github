@@ -1,14 +1,12 @@
-## Hello! 👋
+### Hello! 👋
 
-**What is this organisation about?**
+
+**What is the HIPE-eval organisation about?** :upside_down_face: 
 
 The HIPE-eval organisation grew out of the series of HIPE evaluation campaigns on the **processing of named entity in historical documents**. 
 It contains code and datasets related to the campaigns, and is gradually evolving towards hosting other data and developments related 
-the evaluation of information extraction systems on historical documents.
-
-**What HIPE stands for?** :upside_down_face:
-
-HIPE stands for '*Identifying Historical People, Places and other Entities*' (this name was decided upon in a hurry when submitting the first evaluation campaign, and has remained with us)
+the evaluation of information extraction systems on historical documents. HIPE stands for '*Identifying Historical People, Places and other Entities*'.
+<!--(this name was decided upon in a hurry when submitting the first evaluation campaign, and has remained with us )-->
 
 
 **What are the main HIPE resources for NE processing in historical docs?** :wrench: :bar_chart: :hugs:
@@ -23,10 +21,9 @@ HIPE stands for '*Identifying Historical People, Places and other Entities*' (th
 
 **Where can I found more on the HIPE evaluation campaigns and their results?** :books:
 
-Please visit:
-- the HIPE-2022 [website](https://hipe-eval.github.io/HIPE-2022/).
-- the CLEF-HIPE-2020 [website](https://impresso.github.io/CLEF-HIPE-2020/).
-- the  HIPE Zenodo [organisation](https://zenodo.org/communities/hipe-eval/?page=1&size=20).
+- visit the HIPE-2022 [website](https://hipe-eval.github.io/HIPE-2022/).
+- or the CLEF-HIPE-2020 [website](https://impresso.github.io/CLEF-HIPE-2020/).
+- and the  HIPE Zenodo [organisation](https://zenodo.org/communities/hipe-eval/?page=1&size=20).
 
 **How can I contribute?** :rainbow:
 
