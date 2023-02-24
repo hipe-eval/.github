@@ -32,7 +32,7 @@ If you find any errors, please feel free to open issues or pull requests.
 
 **What's to come?** :calendar:
 
-We hope to be able to offer another edition of HIPE, and to publish useful data again, so stay tuned!¨
+We hope to be able to offer another edition of HIPE, and to publish useful data again, so stay tuned!
 
 
 <!--
