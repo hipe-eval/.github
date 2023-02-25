@@ -27,8 +27,7 @@ the evaluation of information extraction systems on historical documents. HIPE s
 
 **How can I contribute?** 
 
-You are welcome to use the scorer and the data (please note the licences and refer to the relevant scientific papers).    
-If you find any errors, please feel free to open issues or pull requests.
+You are welcome to use the scorer and the data (please note the licences and refer to the relevant scientific papers). If you find any errors, please feel free to open issues or pull requests.
 
 **What's to come?** 
 
