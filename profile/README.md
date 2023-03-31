@@ -1,16 +1,6 @@
-### Hello! 👋
+The HIPE-eval organisation contains code and datasets related to the HIPE evaluation campaigns on the **processing of named entity in historical documents**. HIPE-eval is gradually evolving towards hosting other data and developments related the evaluation of information extraction systems on historical documents. HIPE stands for '*Identifying Historical People, Places and other Entities*'.
 
-
-**What is the HIPE-eval organisation about?** <!-- :upside_down_face: -->
-
-The HIPE-eval organisation grew out of the series of HIPE evaluation campaigns on the **processing of named entity in historical documents**. 
-It contains code and datasets related to the campaigns, and is gradually evolving towards hosting other data and developments related 
-the evaluation of information extraction systems on historical documents. HIPE stands for '*Identifying Historical People, Places and other Entities*'.
-<!--(this name was decided upon in a hurry when submitting the first evaluation campaign, and has remained with us )-->
-
-
-**What are the main HIPE resources?** :hugs:  <!-- for NE processing in historical docs?**   :bar_chart::wrench: -->
-
+**What are the main HIPE resources?:**
 - [HIPE-scorer](https://github.com/hipe-eval/HIPE-scorer): a python module for evaluating NERC and NEL systems (CLI-based, soon available via hugging-face).
 - [HIPE-pycommons](): to manipulate data and get some statistics.
 - [HIPE-2022-data](https://github.com/hipe-eval/HIPE-2022-data): data of the HIPE 2022 shared task.
@@ -32,15 +22,3 @@ You are welcome to use the scorer and the data (please note the licences and ref
 **What's to come?** 
 
 We hope to be able to offer another edition of HIPE, and to publish useful data again, so stay tuned!
-
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
