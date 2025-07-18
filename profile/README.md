@@ -4,7 +4,7 @@ The HIPE-eval organisation contains code and datasets related to the HIPE evalua
 - [HIPE-scorer](https://github.com/hipe-eval/HIPE-scorer): a python module for evaluating NERC and NEL systems (CLI-based, soon available via hugging-face).
 - [HIPE-pycommons](): to manipulate data and get some statistics.
 - [HIPE-2022-data](https://github.com/hipe-eval/HIPE-2022-data): data of the HIPE 2022 shared task.
-- [HIPE-2022-eval](https://github.com/hipe-eval/HIPE-2022-data): all you need to reproduce the HIPE-2022 evaluation campaign results. 
+- [HIPE-2022-eval](https://github.com/hipe-eval/HIPE-2022-eval): all you need to reproduce the HIPE-2022 evaluation campaign results. 
 - [HIPE-2022-baseline](https://github.com/hipe-eval/HIPE-2022-baseline): baseline models for NERC for HIPE-2022.
 - [CLEF-HIPE-2020-eval](https://github.com/impresso/CLEF-HIPE-2020-eval): all you need to reproduce the HIPE-2020 evaluation campaign results (in *impresso* GH organisation). 
 
