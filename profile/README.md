@@ -10,7 +10,7 @@ Although **HIPE** first stood for '_Identifying Historical People, Places and ot
 🚀 [HIPE-OCRepair](https://hipe-eval.github.io/HIPE-OCRepair-2026/): **LLM-assisted OCR post-correction**, Competition hosted at [ICDAR-2026](https://icdar2026.org/)
 - :point_right: Registration is open until **March 23, 2026**!
 - [HIPE-OCRepair-2026-data](https://github.com/hipe-eval/HIPE-OCRepair-2026-data): for public data releases both on Github here and on Hugging Face `huggingface/hipe/hipe-ocrepair-data`
-- HIPE-OCRepair-2026-test-data](https://github.com/hipe-eval/HIPE-OCRepair-2026-data): a temporary repository for (hidden) test data, both on Github here (private) and on Hugging Face `huggingface/hipe/hipe-ocrepair-2026-test-data`
+- [HIPE-OCRepair-2026-test-data](https://github.com/hipe-eval/HIPE-OCRepair-2026-data): a temporary repository for (hidden) test data, both on Github here (private) and on Hugging Face `huggingface/hipe/hipe-ocrepair-2026-test-data`
 - [HIPE-OCRepair-2026-baseline](https://github.com/hipe-eval/HIPE-OCRepair-2026-baseline).
 - [HIPE-OCRepair-2026-eval](https://github.com/hipe-eval/HIPE-OCRepair-2026-eval): for scorer, leaderboard app, and ultimately system submissions for reproduction; both on Github  and `huggingface/hipe/hipe-ocrepair-2026-eval`
 - HIPE-OCRepair-2026-submissions: `huggingface/hipe/hipe-ocrepair-2026-submissions`. To receive system submission in private repositories from the HF leaderboard.
