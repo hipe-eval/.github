@@ -8,7 +8,7 @@ Although **HIPE** first stood for '_Identifying Historical People, Places and ot
 - [HIPE-2026-eval-campaign](https://github.com/hipe-eval/hipe-2026-eval-campaign) – evaluation scripts, baselines, submissions and results.
   
 🚀 [HIPE-OCRepair](https://hipe-eval.github.io/HIPE-OCRepair-2026/): **LLM-assisted OCR post-correction**, Competition hosted at [ICDAR-2026](https://icdar2026.org/)
-- :point_right: Registration is open until **March 30, 2026**!
+- :point_right: Registration is open until **March 23, 2026**!
 - [HIPE-OCRepair-2026-data](https://github.com/hipe-eval/HIPE-OCRepair-2026-data).
 - [HIPE-OCRepair-2026-eval](https://github.com/hipe-eval/HIPE-OCRepair-2026-eval).  
 
