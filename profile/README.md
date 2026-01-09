@@ -12,7 +12,7 @@ Although **HIPE** first stood for '_Identifying Historical People, Places and ot
 - [HIPE-OCRepair-2026-data](https://github.com/hipe-eval/HIPE-OCRepair-2026-data): for public data releases both on Github here and on Hugging Face `huggingface/hipe/hipe-ocrepair-data`
 - [HIPE-OCRepair-2026-baseline](https://github.com/hipe-eval/HIPE-OCRepair-2026-baseline).
 - [HIPE-OCRepair-2026-eval](https://github.com/hipe-eval/HIPE-OCRepair-2026-eval): for scorer, leaderboard app, and ultimately system submissions for reproduction; both on Github  and `huggingface/hipe/hipe-ocrepair-2026-eval`
-- HIPE-OCRepair-2026-submissions: `huggingface/hipe/hipe-ocrepair-2026-submissions`. To receive system submission in private repositories from the HF leaderboard.
+- [HIPE-OCRepair-2026-submissions](https://github.com/hipe-eval/HIPE-OCRepair-2026-submissions): `huggingface/hipe/hipe-ocrepair-2026-submissions`. To receive system submission in private repositories from the HF leaderboard.
 
 🏁 ✔️ [HIPE-2022](https://hipe-eval.github.io/HIPE-2022/): **Named Entity Recognition and Linking**, Evaluation Lab hosted at [CLEF-2022](https://clef2022.clef-initiative.eu/index.php?page=Pages/labs.html).
 - [HIPE-2022-data](https://github.com/hipe-eval/HIPE-2022-data) – data of the HIPE 2022 shared task.
