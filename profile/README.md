@@ -42,3 +42,16 @@ by the SNSF under grant No. [CRSII5_213585](https://data.snf.ch/grants/grant/213
 
 **Organisation**    
 To date, HIPE evaluation campaigns have been organised jointly by the EPFL Digital Humanities Laboratory  and the UZH Institute of Computational Linguistics. If you would like to organise a shared task under the HIPE umbrella, feel free to get in touch!
+
+---
+
+#### Versioning
+
+For some HIPE-eval repositories, we follow Semantic Versioning:
+
+- Development versions use pre-release tags with `-dev.N` suffix, e.g. `v0.1.0-dev.N`.
+- Stable versions are tagged without a suffix (e.g. `v0.1.0`).
+
+Minor versions (`0.x.0`) indicate backward-compatible feature changes.
+Patch versions (`0.x.y`) indicate bug fixes.
+Major version `1.0.0` will mark a stable version /release.
